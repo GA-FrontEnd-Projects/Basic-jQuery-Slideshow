@@ -1,0 +1,35 @@
+RealtyCorp Slideshow
+
+Difficulty Level: Medium
+
+Technologies/skills used: Javascript/jQuery, CSS3, Animation
+
+
+
+Problem Description:
+
+RealtyCorp, a stylish new real estate broker, has hired you to finish building their website. The previous developer was more of a designer, really, so while the site looks decent, it's not quite done.
+
+They would like you to build a professional-looking slideshow on the homepage to replace their list of images. They would like the slides to fade or scroll, depending on your preference.
+
+
+Requreiments:
+
+
+	1) In your CSS file, import the font the designer used in the designs using the @font-face directive.  You'll find the font file in the "css" folder.
+
+
+	2) Something should happen when you hover over the menu links.
+		2a) When the user hovers over a link, change that link's text color to #BFB895.
+		2b) Add a half-second transition (make sure it works in Firefox and Webkit browsers, as well) for a nice effect.
+
+
+	3) Right now the homepage has several images, which RealtyCorp would like turned into a slideshow. You can feel free to use any effects you like with this, whether it be side-scrolling or fading in/out, so long as the slideshow loops cleanly. The slides should change every five seconds.
+		3a) You will likely need jQuery for this. Locate the jQuery source on Google's CDN and import it in your html file.
+		3b) The address associated with each slide should be overlaid over the bottom of each slide. Give it a semi-transparent black background, but the text should be fully opaque.
+
+
+
+	Hints:
+
+	You should not need to use an explicit loop to accomplish the looping part of the slideshow. Look into Javascript functions that function as timers to help you.
