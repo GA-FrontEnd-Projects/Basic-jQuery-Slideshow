@@ -2,7 +2,7 @@ RealtyCorp Slideshow
 
 Difficulty Level: Medium
 
-Technologies/skills used: Javascript/jQuery, CSS3, Animation
+Technologies/skills used: Javascript/jQuery, CSS3, jQuery animation, CSS positioning
 
 
 
@@ -33,3 +33,9 @@ Requreiments:
 	Hints:
 
 	You should not need to use an explicit loop to accomplish the looping part of the slideshow. Look into Javascript functions that function as timers to help you.
+
+
+	Resources:
+
+	Positioning: http://css-tricks.com/video-screencasts/110-quick-overview-of-css-position-values/
+	jQuery animate(): http://api.jquery.com/animate/
